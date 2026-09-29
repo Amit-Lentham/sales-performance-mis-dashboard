@@ -99,3 +99,14 @@ The Excel workbook contains:
 - Salesperson Performance
 - Quarterly Summary
 - Order Lookup Tool
+
+## Project Screenshots
+
+### Dashboard Overview
+![Dashboard Overview](screenshots/dashboard-overview.png)
+
+### Data Cleaning
+![Data Cleaning](screenshots/data-cleaning.png)
+
+### Order Lookup Tool
+![Order Lookup Tool](screenshots/order-lookup.png)
